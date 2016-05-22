@@ -1,0 +1,6 @@
+name: 'GammaZombies'
+description: 'Gamma Zombies is a Hardcore Zombie Survival plugin where players are dropped in random areas and forced to survive.'
+version: '1.00'
+author: 'Dominic Masters'
+website: 'http://domsplace.com/'
+main: 'com.domsplace.GammaZombies.GammaZombies'
